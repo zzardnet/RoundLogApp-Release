@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.8.10",
-  "latestVersionCode": 30,
-  "minVersionCode": 30,
-  "updateUrl": "https://github.com/zzardnet/RoundLogApp-Release/releases/latest"
+  "latestVersion": "1.0.0",
+  "latestVersionCode": 47,
+  "minVersionCode": 47,
+  "updateUrl": "https://github.com/zzardnet/RoundLogApp-Release/releases/tag/v1.0.0"
 }
